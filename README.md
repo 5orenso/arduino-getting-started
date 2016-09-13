@@ -4,7 +4,8 @@ Fiddeling with Arduino to get started.
 
 Install PlatformIO
 ```bash
-$ sudo python -c "$(curl -fsSL https://raw.githubusercontent.com/platformio/platformio/master/scripts/get-platformio.py)" ```
+$ sudo python -c "$(curl -fsSL https://raw.githubusercontent.com/platformio/platformio/master/scripts/get-platformio.py)"
+```
 
 Init project with PlatformIO
 ```bash
@@ -21,3 +22,4 @@ Show device monitor
 ```bash
 $ platformio device monitor
 ```
+
