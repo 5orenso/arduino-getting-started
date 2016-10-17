@@ -1,4 +1,4 @@
-# arduino-getting-started
+# Getting started with Arduino or NodeMCU development
 
 Fiddeling with Arduino to get started.
 
