@@ -73,15 +73,23 @@ $ platformio serialports monitor -b 115200
 
 #### Need to have
 
-| Description                       | Picture                                  |
-|-----------------------------------|------------------------------------------|
-| [ESP8266 NodeMCU v2](https://www.aliexpress.com/item/Update-Industry-4-0-New-esp8266-NodeMCU-v2-Lua-WIFI-networking-development-kit-board-based-on/32358722888.html?spm=2114.13010608.0.0.nAiZf1) | ![NodeMCU](img/nodemcu.jpg){:height="36px" width="36px"} |
+| Description                       | Picture                                  | Price |
+|-----------------------------------|------------------------------------------|-------|
+| [ESP8266 NodeMCU v2](https://www.aliexpress.com/item/Update-Industry-4-0-New-esp8266-NodeMCU-v2-Lua-WIFI-networking-development-kit-board-based-on/32358722888.html?spm=2114.13010608.0.0.nAiZf1) | ![NodeMCU](img/nodemcu.jpg) | $4.00  |
+| [Dupont line 120pcs 20cm male to male + male to female and female to female jumper wire](https://www.aliexpress.com/item/Dupont-line-120pcs-20cm-male-to-male-male-to-female-and-female-to-female-jumper-wire/1728903423.html?spm=2114.13010608.0.0.m3Qohh) | ![Dupont jumper wire](img/jumperwire.jpg) | $2.55  |
+| [140 pcs U Shape Solderless Breadboard Jumper Cable Wire Kit](https://www.aliexpress.com/item/Free-Shipping-140pcs-in-one-package-convenient-New-Solderless-Flexible-Breadboard-Jumper-wires-Cables-HOT-Sale/1621833882.html?spm=2114.13010608.0.0.m3Qohh) | ![Wirekit](img/wirekit.jpg) | $2.10  |
+| [Breadboard 830 Point PCB Board MB-102 MB102](https://www.aliexpress.com/item/SHIPPING-1pcs-Breadboard-830-Point-PCB-Board-MB-102-MB102-Test-Develop-DIY-kit-nodemcu-raspberri/32219206014.html?spm=2114.13010608.0.0.WgO27Y) | ![Breadboard](img/breadboard.jpg) | $1.90  |
+| [1 Pack 300Pcs 10 -1M Ohm 1/4w Resistance 1% Metal Film Resistor Resistance Assortment Kit Set 30 Kinds Each 10pcs](https://www.aliexpress.com/item/1-Pack-300Pcs-10-1M-Ohm-1-4w-Resistance-1-Metal-Film-Resistor-Resistance-Assortment-Kit/32505894332.html?spm=2114.13010608.0.0.Pjis9T) | ![resistors](img/resistors.jpg) | $1.60  |
+| [Breakout BME280 Digital Sensor Temperature Humidity Barometric Pressure Altitude Sensor Precision Module](https://www.aliexpress.com/item/Breakout-BME280-Digital-Sensor-Temperature-Humidity-Barometric-Pressure-Altitude-Sensor-Precision-Module-for-Arduino/32672210336.html?spm=2114.13010608.0.0.aNQtWq) | ![BME280](img/temp-sensor.jpg) | $5.20 |
+
 
 #### Nice to have
 
-| Description | Picture |
-|-------------|---------|
-|  |  |
+| Description                       | Picture                                  | Price |
+|-----------------------------------|------------------------------------------|-------|
+| [PIR Sensor Human Body detecting module Pyroelectric HC-SR501](https://www.aliexpress.com/item/NEW-PIR-Sensor-Human-Body-detecting-module-Pyroelectric-HC-SR501-For-Arduino-MCU-Freeshipping/1856571305.html?spm=2114.10010108.1000013.3.RpWnIf&scm=1007.13339.33317.0&pvid=f4ea8048-4a57-4d28-b810-e2d5a3b4ec79&tpp=1) | ![PIR Sensor](img/pir-sensor.jpg) | $3.27 |
+| [6 Pcs Anti-static ESD Tweezers Set Straight Curved](https://www.aliexpress.com/item/6pcs-ESD-Anti-Static-Stainless-Steel-Tweezer-Set-Tweezers-Maintenance-Tools-Kit/1766539602.html?spm=2114.13010608.0.0.TDP3lb) | ![tweezers](img/tweezers.jpg) | $4.50  |
+
 
 
 # Other resources
