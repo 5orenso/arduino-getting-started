@@ -89,7 +89,8 @@ $ platformio serialports monitor -b 115200
 |-----------------------------------|------------------------------------------|-------|
 | [PIR Sensor Human Body detecting module Pyroelectric HC-SR501](https://www.aliexpress.com/item/NEW-PIR-Sensor-Human-Body-detecting-module-Pyroelectric-HC-SR501-For-Arduino-MCU-Freeshipping/1856571305.html?spm=2114.10010108.1000013.3.RpWnIf&scm=1007.13339.33317.0&pvid=f4ea8048-4a57-4d28-b810-e2d5a3b4ec79&tpp=1) | ![PIR Sensor](img/pir-sensor.jpg) | $3.27 |
 | [6 Pcs Anti-static ESD Tweezers Set Straight Curved](https://www.aliexpress.com/item/6pcs-ESD-Anti-Static-Stainless-Steel-Tweezer-Set-Tweezers-Maintenance-Tools-Kit/1766539602.html?spm=2114.13010608.0.0.TDP3lb) | ![tweezers](img/tweezers.jpg) | $4.50  |
-
+| [Presisjonsskrutrekkersett](http://www.biltema.no/no/Verktoy/Handverktoy/Skrutrekkere-og-Bits/Presisjonsskrutrekker/Presisjonsskrutrekkersett-rettsporPH-7-stk-2000028398/) | ![presisjonsskrutrekkersett](img/presisjonsskrutrekkersett.jpg) | NOK 109 |
+| [Minitenger](http://www.biltema.no/no/Verktoy/Handverktoy/Tenger-og-Sakser/Minitenger-4-stk-2000031648/) | ![Minitenger](./img/minitenger.jpg) | NOK 119 |
 
 
 # Other resources
