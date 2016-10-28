@@ -75,7 +75,7 @@ $ platformio serialports monitor -b 115200
 
 | Description                       | Picture                                  |
 |-----------------------------------|------------------------------------------|
-| [ESP8266 NodeMCU v2](https://www.aliexpress.com/item/Update-Industry-4-0-New-esp8266-NodeMCU-v2-Lua-WIFI-networking-development-kit-board-based-on/32358722888.html?spm=2114.13010608.0.0.nAiZf1) | ![NodeMCU](img/nodemcu.jpg =100x) |
+| [ESP8266 NodeMCU v2](https://www.aliexpress.com/item/Update-Industry-4-0-New-esp8266-NodeMCU-v2-Lua-WIFI-networking-development-kit-board-based-on/32358722888.html?spm=2114.13010608.0.0.nAiZf1) | ![NodeMCU](img/nodemcu.jpg){:height="36px" width="36px"} |
 
 #### Nice to have
 
