@@ -69,9 +69,9 @@ $ platformio run -e nodemcuv2 -t upload
 $ platformio serialports monitor -b 115200
 ```
 
-# Start a new project with NodeMCU
+# Start a new project with Wemos D1 mini
 
-#### Install drivers for NodeMCU
+#### Install drivers for Wemos D1 mini
 http://kig.re/downloads/CH34x_Install.zip
 
 ####Init project with PlatformIO
