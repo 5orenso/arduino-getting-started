@@ -69,6 +69,39 @@ $ platformio run -e nodemcuv2 -t upload
 $ platformio serialports monitor -b 115200
 ```
 
+# Start a new project with NodeMCU
+
+#### Install drivers for NodeMCU
+http://kig.re/downloads/CH34x_Install.zip
+
+####Init project with PlatformIO
+```bash
+$ cd NodeMCU-hello-world/
+$ pio init --board d1_mini
+```
+
+_Start developing :)_
+
+Or download [a blinking led example project](https://github.com/5orenso/nodemcu-blinking-led)
+
+#### Upload to controller and show device monitor:
+```bash
+$ pio run -e d1_mini -t upload && pio serialports monitor -b 115200
+```
+
+#### Upload to controller only:
+```bash
+$ pio run -e d1_mini -t upload
+```
+
+#### Show device monitor only:
+```bash
+$ pio serialports monitor -b 115200
+```
+
+
+
+
 # Shopping list
 
 #### Need to have
