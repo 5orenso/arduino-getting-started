@@ -104,6 +104,7 @@ $ pio serialports monitor -b 115200
 
 * [Home environment sensors](https://github.com/5orenso/nodemcu-mqtt-home-sensors)
 * [BME280 temperature, humidity and airpressure sensor](https://github.com/5orenso/nodemcu-mqtt-bme280)
+* [Led animations. WS2811, Neopixels](https://github.com/5orenso/nodemcu-neopixel-animations)
 * [Toilet project sensors](https://github.com/5orenso/nodemcu-mqtt-toilet-project)
 * [Toilet project light display](https://github.com/5orenso/nodemcu-mqtt-toilet-project-display)
 * [Bitbar toilet menu plugin](https://github.com/TeliaSoneraNorge/iot-hackaton-toilet-u1-bitbar)
