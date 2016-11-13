@@ -100,6 +100,13 @@ $ pio serialports monitor -b 115200
 ```
 
 
+## Project inspiration
+
+* [Home environment sensors](https://github.com/5orenso/nodemcu-mqtt-home-sensors)
+* [BME280 temperature, humidity and airpressure sensor](https://github.com/5orenso/nodemcu-mqtt-bme280)
+* [Toilet project sensors](https://github.com/5orenso/nodemcu-mqtt-toilet-project)
+* [Toilet project light display](https://github.com/5orenso/nodemcu-mqtt-toilet-project-display)
+* [Bitbar toilet menu plugin](https://github.com/TeliaSoneraNorge/iot-hackaton-toilet-u1-bitbar)
 
 
 # Shopping list
@@ -128,6 +135,6 @@ $ pio serialports monitor -b 115200
 | [Minitenger](http://www.biltema.no/no/Verktoy/Handverktoy/Tenger-og-Sakser/Minitenger-4-stk-2000031648/) | ![Minitenger](./img/minitenger.jpg) | NOK 119 |
 
 
-# Other resources
+## Other external resources
 
 * https://www.losant.com/blog/getting-started-with-platformio-esp8266-nodemcu
