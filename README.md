@@ -108,6 +108,7 @@ $ pio serialports monitor -b 115200
 * [Toilet project sensors](https://github.com/5orenso/nodemcu-mqtt-toilet-project)
 * [Toilet project light display](https://github.com/5orenso/nodemcu-mqtt-toilet-project-display)
 * [Bitbar toilet menu plugin](https://github.com/TeliaSoneraNorge/iot-hackaton-toilet-u1-bitbar)
+* [AMI for MQTT Broker](https://github.com/5orenso/aws-ami-creation)
 
 
 # Shopping list
