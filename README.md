@@ -102,12 +102,13 @@ $ pio serialports monitor -b 115200
 
 ## Project inspiration
 
-* [Home environment sensors](https://github.com/5orenso/nodemcu-mqtt-home-sensors)
-* [BME280 temperature, humidity and airpressure sensor](https://github.com/5orenso/nodemcu-mqtt-bme280)
-* [Led animations. WS2811, Neopixels](https://github.com/5orenso/nodemcu-neopixel-animations)
-* [Toilet project sensors](https://github.com/5orenso/nodemcu-mqtt-toilet-project)
-* [Toilet project light display](https://github.com/5orenso/nodemcu-mqtt-toilet-project-display)
-* [Bitbar toilet menu plugin](https://github.com/TeliaSoneraNorge/iot-hackaton-toilet-u1-bitbar)
+* [Getting started with NodeMCU, Arduino or Wemos D1 mini](https://github.com/5orenso/arduino-getting-started)
+* [NodeMCU code for the toilet sensors integrated with AWS IoT](https://github.com/5orenso/nodemcu-mqtt-toilet-project)
+* [NodeMCU code for the toilet lights integrated with AWS IoT](https://github.com/5orenso/nodemcu-mqtt-toilet-project-display)
+* [NodeMCU code for home sensors integrated with AWS IoT](https://github.com/5orenso/nodemcu-mqtt-home-sensors)
+* [NodeMCU code for BME280 sensor integrated with AWS IoT](https://github.com/5orenso/nodemcu-mqtt-bme280)
+* [NodeMCU code for DallasTemperature sensor integrated with AWS IoT](https://github.com/5orenso/nodemcu-mqtt-dallastemperature)
+* [Arduino code for Neopixel animations](https://github.com/5orenso/nodemcu-neopixel-animations)
 * [AMI for MQTT Broker](https://github.com/5orenso/aws-ami-creation)
 
 
